@@ -3,12 +3,15 @@ Python project for beginners- Analyze Diwali sales data to improve customer expe
 
 
 🪔 Diwali Sales Data Analysis
+
 This project analyzes a Diwali sales dataset using Python to uncover customer purchasing behavior and sales trends. The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations to generate business insights.
 
 📌 Project Overview
+
 The objective of this project is to analyze customer demographics, purchasing patterns, and product performance during Diwali sales to identify key revenue drivers.
 
 📂 Dataset
+
 11,000+ records
 
 Features include: User_ID, Gender, Age Group, Marital Status, State, Occupation, Product Category, Orders, and Amount
