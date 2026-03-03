@@ -1,2 +1,4 @@
-# Diwali_Sales_Analysis
-Diwali Sales Data Analysis project using Python (Pandas, NumPy, Matplotlib, Seaborn) to perform data cleaning, EDA, and generate business insights from 11K+ records.
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
